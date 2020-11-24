@@ -1,0 +1,2 @@
+# smhi
+SMHI documentation archive
